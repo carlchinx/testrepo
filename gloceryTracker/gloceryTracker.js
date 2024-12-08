@@ -2,7 +2,7 @@ let glocery1;
 let glocery2;
 let glocery3;
 
-function calculateArea() {
+function gloceryTracker() {
     glocery1 = parseFloat(document.getElementById('glocery1').value);
     glocery2 = parseFloat(document.getElementById('glocery2').value);
     glocery3 = parseFloat(document.getElementById('glocery3').value);
